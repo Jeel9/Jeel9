@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeel
 - 👀 I’m interested in learning new skills mainly related to tech. I also like to code, Design Interfaces && Experiences for websites and apps, Sketching, and Volleyball.
 - 🌱 I’m currently learning Application Development, Webflow.
-- 💞️ I’m looking to collaborate on UI/UX projects.
+- 💞️ Ready to collaborate on UI/UX projects.
 - 📫 You can reach me by->   Email- 2020ucp1798@mnit.ac.in || pateljeel9537@gmail.com
 
 <!---
