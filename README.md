@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeel
 - 👀 I’m interested in learning new skills mainly related to tech. I also like to code, Design Interfaces && Experiences for websites and apps, Sketching, and Volleyball.
-- 🌱 Skills- Application Development, Webflow, UI/UX Design.
+- 🌱 Skills- Web && App Development, Webflow, UI/UX Design.
 - 📫 You can reach me by-> pateljeel9537@gmail.com
 
 <!---
